@@ -1,0 +1,16 @@
+body{
+  width: 400px;
+  margin: 0 auto;
+  background-color: lightblue;
+}
+
+#aone{
+  height: 50px;
+  background-color: cyan;
+
+}
+
+#done{
+    height: 100px;
+    background-color: lightgreen;
+}
